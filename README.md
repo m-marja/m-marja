@@ -7,5 +7,5 @@
 - 🛠️ Skilled in **TypeScript, JavaScript, RxJS, HTML, CSS, and Git**.  
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/marjanamubarak/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marjanamubarak/)  
 
